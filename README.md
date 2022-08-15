@@ -1,4 +1,4 @@
 # aula_6M_desenvolvimentoweb
-Aulas da Faculdade (Sexta Feira) Desenvolvimento WEB
+Aulas da Faculdade (Segunda | Sexta Feira) 
 
-aula de hoje foi sobre criação de variáveis, e operadores aritméticos 
+Programação em JAVA
